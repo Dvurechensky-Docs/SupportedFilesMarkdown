@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 # Поддерживаемые расширения файлов
 
 |*| Тип содержимого | Поддерживаемые расширения                                              | Описание                                      |
@@ -384,3 +386,5 @@ endsolid cube
 [] Task 2
 ```
 ````
+
+<p align="center">✨Dvurechensky✨</p>
