@@ -15,6 +15,7 @@
 |✅| JPEG         | [.jpg](./Files/BinaryTree.jpg), .jpeg                                         | Формат файлов изображений JPEG                |
 |✅| Text         | [.txt](./Files/todo.txt)                                                      | Обычный текстовый файл                        |
 
+
 ## mermaid ✅
 
 ```mermaid
